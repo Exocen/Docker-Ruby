@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER exo/ruby
+MAINTAINER Exocen
 
 RUN apt-get update
 
